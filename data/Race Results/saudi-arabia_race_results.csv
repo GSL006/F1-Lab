@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Max Verstappen,VER,Red Bull Racing RBPT,50,1:24:19.293,25
+2,16,Charles Leclerc,LEC,Ferrari,50,+0.549s,19
+3,55,Carlos Sainz,SAI,Ferrari,50,+8.097s,15
+4,11,Sergio Perez,PER,Red Bull Racing RBPT,50,+10.800s,12
+5,63,George Russell,RUS,Mercedes,50,+32.732s,10
+6,31,Esteban Ocon,OCO,Alpine Renault,50,+56.017s,8
+7,4,Lando Norris,NOR,McLaren Mercedes,50,+56.124s,6
+8,10,Pierre Gasly,GAS,AlphaTauri RBPT,50,+62.946s,4
+9,20,Kevin Magnussen,MAG,Haas Ferrari,50,+64.308s,2
+10,44,Lewis Hamilton,HAM,Mercedes,50,+73.948s,1
+11,24,Zhou Guanyu,ZHO,Alfa Romeo Ferrari,50,+82.215s,0
+12,27,Nico Hulkenberg,HUL,Aston Martin Aramco Mercedes,50,+91.742s,0
+13,18,Lance Stroll,STR,Aston Martin Aramco Mercedes,49,+1 lap,0
+14,23,Alexander Albon,ALB,Williams Mercedes,47,DNF,0
+NC,77,Valtteri Bottas,BOT,Alfa Romeo Ferrari,36,DNF,0
+NC,14,Fernando Alonso,ALO,Alpine Renault,35,DNF,0
+NC,3,Daniel Ricciardo,RIC,McLaren Mercedes,35,DNF,0
+NC,6,Nicholas Latifi,LAT,Williams Mercedes,14,DNF,0
+NC,22,Yuki Tsunoda,TSU,AlphaTauri RBPT,0,DNS,0
+NC,47,Mick Schumacher,MSC,Haas Ferrari,0,DNS,0

@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,16,Charles Leclerc,LEC,Ferrari,1:12.569,1:11.864,1:11.376,24
+2,55,Carlos Sainz,SAI,Ferrari,1:12.616,1:12.074,1:11.601,25
+3,11,Sergio Perez,PER,Red Bull Racing RBPT,1:13.004,1:11.954,1:11.629,25
+4,1,Max Verstappen,VER,Red Bull Racing RBPT,1:12.993,1:12.117,1:11.666,25
+5,4,Lando Norris,NOR,McLaren Mercedes,1:12.927,1:12.266,1:11.849,27
+6,63,George Russell,RUS,Mercedes,1:12.787,1:12.617,1:12.112,27
+7,14,Fernando Alonso,ALO,Alpine Renault,1:13.394,1:12.688,1:12.247,22
+8,44,Lewis Hamilton,HAM,Mercedes,1:13.444,1:12.595,1:12.560,29
+9,5,Sebastian Vettel,VET,Aston Martin Aramco Mercedes,1:13.313,1:12.613,1:12.732,28
+10,31,Esteban Ocon,OCO,Alpine Renault,1:12.848,1:12.528,1:13.047,22
+11,22,Yuki Tsunoda,TSU,AlphaTauri RBPT,1:13.110,1:12.797,DNQ,20
+12,77,Valtteri Bottas,BOT,Alfa Romeo Ferrari,1:13.541,1:12.909,DNQ,17
+13,20,Kevin Magnussen,MAG,Haas Ferrari,1:13.069,1:12.921,DNQ,20
+14,3,Daniel Ricciardo,RIC,McLaren Mercedes,1:13.338,1:12.964,DNQ,21
+15,47,Mick Schumacher,MSC,Haas Ferrari,1:13.469,1:13.081,DNQ,17
+16,23,Alexander Albon,ALB,Williams Mercedes,1:13.611,DNQ,DNQ,14
+17,10,Pierre Gasly,GAS,AlphaTauri RBPT,1:13.660,DNQ,DNQ,10
+18,18,Lance Stroll,STR,Aston Martin Aramco Mercedes,1:13.678,DNQ,DNQ,11
+19,6,Nicholas Latifi,LAT,Williams Mercedes,1:14.403,DNQ,DNQ,13
+20,24,Zhou Guanyu,ZHO,Alfa Romeo Ferrari,1:15.606,DNQ,DNQ,9

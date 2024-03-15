@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Max Verstappen,VER,Red Bull Racing RBPT,63,1:32:07.986,26
+2,11,Sergio Perez,PER,Red Bull Racing RBPT,63,+16.527s,18
+3,4,Lando Norris,NOR,McLaren Mercedes,63,+34.834s,15
+4,63,George Russell,RUS,Mercedes,63,+42.506s,12
+5,77,Valtteri Bottas,BOT,Alfa Romeo Ferrari,63,+43.181s,10
+6,16,Charles Leclerc,LEC,Ferrari,63,+56.072s,8
+7,22,Yuki Tsunoda,TSU,AlphaTauri RBPT,63,+61.110s,6
+8,5,Sebastian Vettel,VET,Aston Martin Aramco Mercedes,63,+70.892s,4
+9,20,Kevin Magnussen,MAG,Haas Ferrari,63,+75.260s,2
+10,18,Lance Stroll,STR,Aston Martin Aramco Mercedes,62,+1 lap,1
+11,23,Alexander Albon,ALB,Williams Mercedes,62,+1 lap,0
+12,10,Pierre Gasly,GAS,AlphaTauri RBPT,62,+1 lap,0
+13,44,Lewis Hamilton,HAM,Mercedes,62,+1 lap,0
+14,31,Esteban Ocon,OCO,Alpine Renault,62,+1 lap,0
+15,24,Zhou Guanyu,ZHO,Alfa Romeo Ferrari,62,+1 lap,0
+16,6,Nicholas Latifi,LAT,Williams Mercedes,62,+1 lap,0
+17,47,Mick Schumacher,MSC,Haas Ferrari,62,+1 lap,0
+18,3,Daniel Ricciardo,RIC,McLaren Mercedes,62,+1 lap,0
+NC,14,Fernando Alonso,ALO,Alpine Renault,6,DNF,0
+NC,55,Carlos Sainz,SAI,Ferrari,0,DNF,0

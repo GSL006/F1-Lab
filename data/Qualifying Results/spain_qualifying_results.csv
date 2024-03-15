@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,16,Charles Leclerc,LEC,Ferrari,1:19.861,1:19.969,1:18.750,12
+2,1,Max Verstappen,VER,Red Bull Racing RBPT,1:20.091,1:19.219,1:19.073,16
+3,55,Carlos Sainz,SAI,Ferrari,1:19.892,1:19.453,1:19.166,16
+4,63,George Russell,RUS,Mercedes,1:20.218,1:19.470,1:19.393,14
+5,11,Sergio Perez,PER,Red Bull Racing RBPT,1:20.447,1:19.830,1:19.420,17
+6,44,Lewis Hamilton,HAM,Mercedes,1:20.252,1:19.794,1:19.512,15
+7,77,Valtteri Bottas,BOT,Alfa Romeo Ferrari,1:20.355,1:20.053,1:19.608,18
+8,20,Kevin Magnussen,MAG,Haas Ferrari,1:20.227,1:19.810,1:19.682,18
+9,3,Daniel Ricciardo,RIC,McLaren Mercedes,1:20.549,1:20.287,1:20.297,15
+10,47,Mick Schumacher,MSC,Haas Ferrari,1:20.683,1:20.436,1:20.368,18
+11,4,Lando Norris,NOR,McLaren Mercedes,1:20.838,1:20.471,DNQ,12
+12,31,Esteban Ocon,OCO,Alpine Renault,1:20.880,1:20.638,DNQ,9
+13,22,Yuki Tsunoda,TSU,AlphaTauri RBPT,1:20.707,1:20.639,DNQ,15
+14,10,Pierre Gasly,GAS,AlphaTauri RBPT,1:20.719,1:20.861,DNQ,15
+15,24,Zhou Guanyu,ZHO,Alfa Romeo Ferrari,1:20.476,1:21.094,DNQ,15
+16,5,Sebastian Vettel,VET,Aston Martin Aramco Mercedes,1:20.954,DNQ,DNQ,6
+17,14,Fernando Alonso,ALO,Alpine Renault,1:21.043,DNQ,DNQ,5
+18,18,Lance Stroll,STR,Aston Martin Aramco Mercedes,1:21.418,DNQ,DNQ,6
+19,23,Alexander Albon,ALB,Williams Mercedes,1:21.645,DNQ,DNQ,6
+20,6,Nicholas Latifi,LAT,Williams Mercedes,1:21.915,DNQ,DNQ,9

@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,16,Charles Leclerc,LEC,Ferrari,57,1:37:33.584,26
+2,55,Carlos Sainz,SAI,Ferrari,57,+5.598s,18
+3,44,Lewis Hamilton,HAM,Mercedes,57,+9.675s,15
+4,63,George Russell,RUS,Mercedes,57,+11.211s,12
+5,20,Kevin Magnussen,MAG,Haas Ferrari,57,+14.754s,10
+6,77,Valtteri Bottas,BOT,Alfa Romeo Ferrari,57,+16.119s,8
+7,31,Esteban Ocon,OCO,Alpine Renault,57,+19.423s,6
+8,22,Yuki Tsunoda,TSU,AlphaTauri RBPT,57,+20.386s,4
+9,14,Fernando Alonso,ALO,Alpine Renault,57,+22.390s,2
+10,24,Zhou Guanyu,ZHO,Alfa Romeo Ferrari,57,+23.064s,1
+11,47,Mick Schumacher,MSC,Haas Ferrari,57,+32.574s,0
+12,18,Lance Stroll,STR,Aston Martin Aramco Mercedes,57,+45.873s,0
+13,23,Alexander Albon,ALB,Williams Mercedes,57,+53.932s,0
+14,3,Daniel Ricciardo,RIC,McLaren Mercedes,57,+54.975s,0
+15,4,Lando Norris,NOR,McLaren Mercedes,57,+56.335s,0
+16,6,Nicholas Latifi,LAT,Williams Mercedes,57,+61.795s,0
+17,27,Nico Hulkenberg,HUL,Aston Martin Aramco Mercedes,57,+63.829s,0
+18,11,Sergio Perez,PER,Red Bull Racing RBPT,56,DNF,0
+19,1,Max Verstappen,VER,Red Bull Racing RBPT,54,DNF,0
+NC,10,Pierre Gasly,GAS,AlphaTauri RBPT,44,DNF,0

@@ -1,0 +1,23 @@
+POS,Driver Code,Driver Name,Constructor,Points,Pole Positions,No of Fastest Laps,Wins,Podiums,DNFs
+1,VER,Max Verstappen,Red Bull Racing RBPT,454,7,5,15,17,2
+2,LEC,Charles Leclerc,Ferrari,308,9,3,3,11,3
+3,PER,Sergio Perez,Red Bull Racing RBPT,305,1,3,2,11,3
+4,RUS,George Russell,Mercedes,275,2,4,1,8,1
+5,SAI,Carlos Sainz,Ferrari,246,3,2,1,9,6
+6,HAM,Lewis Hamilton,Mercedes,240,0,2,0,9,2
+7,NOR,Lando Norris,McLaren Mercedes,122,0,2,0,1,2
+8,OCO,Esteban Ocon,Alpine Renault,92,0,0,0,0,2
+9,ALO,Fernando Alonso,Alpine Renault,81,0,0,0,0,6
+10,BOT,Valtteri Bottas,Alfa Romeo Ferrari,49,0,0,0,0,6
+11,RIC,Daniel Ricciardo,McLaren Mercedes,37,0,0,0,0,3
+12,VET,Sebastian Vettel,Aston Martin Aramco Mercedes,37,0,0,0,0,3
+13,MAG,Kevin Magnussen,Haas Ferrari,25,0,0,0,0,5
+14,GAS,Pierre Gasly,AlphaTauri RBPT,23,0,0,0,0,3
+15,STR,Lance Stroll,Aston Martin Aramco Mercedes,18,0,0,0,0,3
+16,MSC,Mick Schumacher,Haas Ferrari,12,0,0,0,0,3
+17,TSU,Yuki Tsunoda,AlphaTauri RBPT,12,0,0,0,0,6
+18,ZHO,Zhou Guanyu,Alfa Romeo Ferrari,6,0,1,0,0,5
+19,ALB,Alexander Albon,Williams Mercedes,4,0,0,0,0,5
+20,LAT,Nicholas Latifi,Williams Mercedes,2,0,0,0,0,5
+21,DEV,Nyck De Vries,Williams Mercedes,2,0,0,0,0,0
+22,HUL,Nico Hulkenberg,Aston Martin Aramco Mercedes,0,0,0,0,0,0

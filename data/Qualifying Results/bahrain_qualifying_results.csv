@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,16,Charles Leclerc,LEC,Ferrari,1:31.471,1:30.932,1:30.558,15
+2,1,Max Verstappen,VER,Red Bull Racing RBPT,1:31.785,1:30.757,1:30.681,14
+3,55,Carlos Sainz,SAI,Ferrari,1:31.567,1:30.787,1:30.687,15
+4,11,Sergio Perez,PER,Red Bull Racing RBPT,1:32.311,1:31.008,1:30.921,18
+5,44,Lewis Hamilton,HAM,Mercedes,1:32.285,1:31.048,1:31.238,17
+6,77,Valtteri Bottas,BOT,Alfa Romeo Ferrari,1:31.919,1:31.717,1:31.560,15
+7,20,Kevin Magnussen,MAG,Haas Ferrari,1:31.955,1:31.461,1:31.808,12
+8,14,Fernando Alonso,ALO,Alpine Renault,1:32.346,1:31.621,1:32.195,14
+9,63,George Russell,RUS,Mercedes,1:32.269,1:31.252,1:32.216,17
+10,10,Pierre Gasly,GAS,AlphaTauri RBPT,1:32.096,1:31.635,1:32.338,21
+11,31,Esteban Ocon,OCO,Alpine Renault,1:32.041,1:31.782,DNQ,12
+12,47,Mick Schumacher,MSC,Haas Ferrari,1:32.380,1:31.998,DNQ,11
+13,4,Lando Norris,NOR,McLaren Mercedes,1:32.239,1:32.008,DNQ,14
+14,23,Alexander Albon,ALB,Williams Mercedes,1:32.726,1:32.664,DNQ,13
+15,24,Zhou Guanyu,ZHO,Alfa Romeo Ferrari,1:32.493,1:33.543,DNQ,12
+16,22,Yuki Tsunoda,TSU,AlphaTauri RBPT,1:32.750,DNQ,DNQ,8
+17,27,Nico Hulkenberg,HUL,Aston Martin Aramco Mercedes,1:32.777,DNQ,DNQ,6
+18,3,Daniel Ricciardo,RIC,McLaren Mercedes,1:32.945,DNQ,DNQ,8
+19,18,Lance Stroll,STR,Aston Martin Aramco Mercedes,1:33.032,DNQ,DNQ,6
+20,6,Nicholas Latifi,LAT,Williams Mercedes,1:33.634,DNQ,DNQ,8

@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Max Verstappen,VER,Red Bull Racing RBPT,53,1:30:02.112,25
+2,44,Lewis Hamilton,HAM,Mercedes,53,+10.587s,18
+3,63,George Russell,RUS,Mercedes,53,+16.495s,15
+4,11,Sergio Perez,PER,Red Bull Racing RBPT,53,+17.310s,12
+5,55,Carlos Sainz,SAI,Ferrari,53,+28.872s,11
+6,14,Fernando Alonso,ALO,Alpine Renault,53,+42.879s,8
+7,4,Lando Norris,NOR,McLaren Mercedes,53,+52.026s,6
+8,31,Esteban Ocon,OCO,Alpine Renault,53,+56.959s,4
+9,3,Daniel Ricciardo,RIC,McLaren Mercedes,53,+60.372s,2
+10,18,Lance Stroll,STR,Aston Martin Aramco Mercedes,53,+62.549s,1
+11,5,Sebastian Vettel,VET,Aston Martin Aramco Mercedes,53,+64.494s,0
+12,10,Pierre Gasly,GAS,AlphaTauri RBPT,53,+65.448s,0
+13,23,Alexander Albon,ALB,Williams Mercedes,53,+68.565s,0
+14,77,Valtteri Bottas,BOT,Alfa Romeo Ferrari,53,+76.666s,0
+15,47,Mick Schumacher,MSC,Haas Ferrari,53,+80.394s,0
+16,24,Zhou Guanyu,ZHO,Alfa Romeo Ferrari,47,+6 laps,0
+NC,6,Nicholas Latifi,LAT,Williams Mercedes,40,DNF,0
+NC,20,Kevin Magnussen,MAG,Haas Ferrari,37,DNF,0
+NC,16,Charles Leclerc,LEC,Ferrari,17,DNF,0
+NC,22,Yuki Tsunoda,TSU,AlphaTauri RBPT,17,DNF,0
